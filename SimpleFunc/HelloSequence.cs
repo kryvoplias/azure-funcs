@@ -7,7 +7,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.Azure.WebJobs;
 
-namespace VSSample
+namespace SimpleFunc
 {
     public static class HelloSequence
     {
